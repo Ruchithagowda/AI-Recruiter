@@ -21,5 +21,20 @@
     	<version>8.0.11</version>
  	</dependency>
   
+=======
+        <groupId>org.apache.pdfbox</groupId>
+        <artifactId>pdfbox</artifactId>
+        <version>2.0.6</version>
+	</dependency>
+	
+	<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+	<dependency>
+	    <groupId>mysql</groupId>
+    	<artifactId>mysql-connector-java</artifactId>
+    	<version>8.0.11</version>
+	</dependency>
+	
+	
+>>>>>>> 621596a1291676b6273b4936fbc2975e26be27b9
   </dependencies>
 </project>
